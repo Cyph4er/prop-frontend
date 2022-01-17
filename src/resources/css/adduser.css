@@ -1,0 +1,25 @@
+.loginicon{
+    width: 25px;
+  }
+  .signin-details{
+    width: 400px;
+    height: 600px;
+    background-color: #FFE7D6;
+    border-radius: 10px;
+  }
+  .hightopm{
+    margin-top: 150px;
+  }
+  
+  .loginbtn{
+    background-color: #FFC36B;
+    border-radius: 10px;
+  }
+  .form-login{
+    border-radius: 10px;
+    background-color: #467c73;
+    color: #fff;
+    border: none;
+    width: 100%;
+    height: 40px;
+  }

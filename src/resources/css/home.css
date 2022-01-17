@@ -1,0 +1,17 @@
+.hicon{
+  width: 150px;
+
+}
+.guidelink{
+  width: 250px;
+  background-color: rgb(151, 206, 193, 0.5);
+  /* opacity: 0.5; */
+  text-decoration: none;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+}

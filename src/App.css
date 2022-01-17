@@ -1,0 +1,15 @@
+.bgimg{
+  background: url(./resources/img/BG_IMAGE.png) no-repeat fixed center;
+}
+.navbg{
+  background-color: #4E7C71;
+}
+.navlinkbg{
+  background-color: #FFE7D6;
+}
+.greenc{
+  color:#477971;
+}
+.fullh{
+  height: 100%;
+}
